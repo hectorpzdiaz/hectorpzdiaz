@@ -1,6 +1,8 @@
 <h1 align="center">Hola 😄, Me llamo Héctor Pérez Díaz</h1>
 <h3 align="center">Soy un programador que no para de aprender y de hacer lo que le gusta.</h3>
 
+- 💬 Ask me about **Html, css**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hectorpzdiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hectorpzdiaz" height="30" width="40" /></a>
