@@ -1,7 +1,4 @@
-<video autoplay controls>
-  <source src="https://i.imgur.com/JfiUpUv.mp4" type="video/mp4">
-  Tu navegador no admite la reproducción de video.
-</video>
+<img src="https://i.imgur.com/tuV9nrI_d.webp?maxwidth=520&shape=thumb&fidelity=high">
 <h1 align="center">Hola 😄, Me llamo Héctor Pérez Díaz</h1>
 <h3 align="center">Soy un programador que no para de aprender y de hacer lo que le gusta.</h3>
 
