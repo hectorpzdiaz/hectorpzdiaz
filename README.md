@@ -1,5 +1,4 @@
- <img src="https://imgur.com/a/N2NGw20" >
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/N2NGw20" data-context="false" ><a href="//imgur.com/a/N2NGw20"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <h1 align="center">Hola 😄, Me llamo Héctor Pérez Díaz</h1>
 <h3 align="center">Soy un programador que no para de aprender y de hacer lo que le gusta.</h3>
 
