@@ -1,4 +1,4 @@
- <img  src="//s.imgur.com/min/embed.js" >
+ <img src="//s.imgur.com/min/embed.js" >
 
 <h1 align="center">Hola 😄, Me llamo Héctor Pérez Díaz</h1>
 <h3 align="center">Soy un programador que no para de aprender y de hacer lo que le gusta.</h3>
