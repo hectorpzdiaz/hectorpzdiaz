@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 😄, Me llamo Héctor Pérez Díaz</h1>
+<h1 align="center">Sobre Mi 👋>
 <h3 align="center">Soy un Full-Stack que no para de aprender y de hacer lo que le gusta.</h3>
 
 
