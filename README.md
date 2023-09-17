@@ -1,5 +1,6 @@
 
-<h1>Sobre Mi 👋 </h1>
+<h1> ¡Bienvenido a mi Rincón de Código! 🚀 </h1>
+<h1> Sobre mi </h1>
 <h3 >Soy un Full-Stack que no para de aprender y de hacer lo que le gusta, soy bastante inquieto y no me gusta quedarme en la superficie , me gusta indagar siempre en el interior.</h3>
 
 
