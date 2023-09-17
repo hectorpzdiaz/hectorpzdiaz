@@ -5,7 +5,7 @@
 <h3 >Soy un Full-Stack que no para de aprender y de hacer lo que le gusta, soy bastante inquieto y no me gusta quedarme en la superficie , me gusta indagar siempre en el interior.</h3>
 
 <h1> Lo que encontrarás aquí </h1>
-<p> En este rincón de GitHub, comparto mis proyectos y exploraciones en el mundo de la programación. Desde aplicaciones web y moviles , tambien encontrás los lenguajes que uso y como poder contactar conmigo.>
+<h4> En este rincón de GitHub, comparto mis proyectos y exploraciones en el mundo de la programación. Desde aplicaciones web y moviles , tambien encontrás los lenguajes que uso y como poder contactar conmigo</h4>
 
 
 - 💬 Ask me about **Html, css**
