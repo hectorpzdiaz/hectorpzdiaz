@@ -1,6 +1,10 @@
-<img src="[https://i.imgur.com/0RG1eFh.png](https://i.imgur.com/JfiUpUv_lq.mp4)">
+<video autoplay>
+  
+ <source src="[https://i.imgur.com/0RG1eFh.png](https://i.imgur.com/JfiUpUv_lq.mp4)"> 
+  </video>
 <h1 align="center">Hola 😄, Me llamo Héctor Pérez Díaz</h1>
 <h3 align="center">Soy un programador que no para de aprender y de hacer lo que le gusta.</h3>
+
 
 - 💬 Ask me about **Html, css**
 
