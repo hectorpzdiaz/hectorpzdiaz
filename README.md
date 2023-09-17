@@ -1,7 +1,11 @@
 
 <h1> ¡Bienvenido a mi Rincón de Código! , Sobre mi 👉 </h1>
+<h1>  Sobre mi 👉 </h1>
 
 <h3 >Soy un Full-Stack que no para de aprender y de hacer lo que le gusta, soy bastante inquieto y no me gusta quedarme en la superficie , me gusta indagar siempre en el interior.</h3>
+
+<h1> Lo que encontrarás aquí </h1>
+<p En este rincón de GitHub, comparto mis proyectos y exploraciones en el mundo de la programación. Desde aplicaciones web hasta scripts útiles, encontrarás una variedad de trabajos que reflejan mi curiosidad y creatividad>
 
 
 - 💬 Ask me about **Html, css**
