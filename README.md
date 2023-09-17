@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNt6hgZeQri-UvfHmX7nwoms1Tqa16IKiyDQ&usqp=CAU">
+<img src="https://i.imgur.com/0RG1eFh.png">
 <h1 align="center">Hola 😄, Me llamo Héctor Pérez Díaz</h1>
 <h3 align="center">Soy un programador que no para de aprender y de hacer lo que le gusta.</h3>
 
