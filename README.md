@@ -1,4 +1,4 @@
-<image src="[https://img.shields.io/badge/any_text-you_like-blue](https://imgur.com/FEPhnrk)"></image>
+<image src="https://img.shields.io/badge/any_text-you_like-blue](https://imgur.com/FEPhnrk)"></image>
 
 <h1> ¡Bienvenido a mi Rincón de Código! </h1>
 <h1>  Sobre mi 👉 </h1>
