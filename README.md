@@ -22,6 +22,7 @@
 <h3 align="center">contact me and visit my profiles:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="	https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Portfolio-%2336465D.svg?&style=for-the-badge&logoColor=white"> 
+   <img src="	https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white"> 
 
 </p>
