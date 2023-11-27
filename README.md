@@ -1,4 +1,5 @@
-<h2>Hello I am <span style="color: blue;">Héctor</span> 👋 </h2>
+<h1 style="margin: 20px;">Hello I am <span style="color: black;">Héctor</span> 👋 </h1>
+
 
 
 <image src="https://i.imgur.com/YgwvYGk.png"></image>
