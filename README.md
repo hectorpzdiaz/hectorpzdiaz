@@ -4,7 +4,7 @@
 
 
 
-<h4 >Developer Full Stack Developer with a passion for creating fluid and engaging web applications and mobile applications. I enjoy the challenges of front-end and back-end development, adapting to bring ideas to life from concept to execution. </h4>
+<h4 >Developer Full-Stack  with a passion for creating fluid and engaging web applications and mobile applications. I enjoy the challenges of front-end and back-end development, adapting to bring ideas to life from concept to execution. </h4>
 
 <h1> Lo que encontrarás aquí </h1>
 <h4> En este rincón de GitHub, comparto mis proyectos y exploraciones en el mundo de la programación. Desde aplicaciones web y moviles , tambien encontrás los lenguajes que uso y como poder contactar conmigo</h4>
