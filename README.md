@@ -1,4 +1,4 @@
-<h1 style="margin: 20px;">Hello I am <span style="color: black;">Héctor</span> 👋 </h1>
+<h2style="margin: 20px;">Hello I am <span style="color: black;">Héctor</span> 👋 </h2>
 
 
 
