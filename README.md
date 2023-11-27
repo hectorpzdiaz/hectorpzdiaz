@@ -1,4 +1,4 @@
-<image src="https://imgur.com/P3dVo8a"></imge>
+<image src="https://imgur.com/P3dVo8a"></image>
 <h1> ¡Bienvenido a mi Rincón de Código! </h1>
 <h1>  Sobre mi 👉 </h1>
 
