@@ -1,4 +1,4 @@
-<image src="https://imgur.com/a/7B7fcEz"></image>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/7B7fcEz" data-context="false" ><a href="//imgur.com/a/7B7fcEz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h1> ¡Bienvenido a mi Rincón de Código! </h1>
 <h1>  Sobre mi 👉 </h1>
