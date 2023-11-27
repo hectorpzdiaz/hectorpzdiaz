@@ -1,4 +1,4 @@
-<h1>Hello I am <span style="color: black;">Héctor</span> 👋 </h1>
+<h1>Hello I am <span style="color: blue;">Héctor</span> 👋 </h1>
 
 
 <image src="https://i.imgur.com/YgwvYGk.png"></image>
