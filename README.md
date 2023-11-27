@@ -2,7 +2,7 @@
 
 
 
-<image src="https://i.imgur.com/YgwvYGk.png"></image>
+ <img src="https://i.imgur.com/YgwvYGk.png" width="200" height="200">
 
 
 
