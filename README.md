@@ -4,7 +4,7 @@
 
 
 
-<h3 >Soy un Full-Stack que no para de aprender y de hacer lo que le gusta, soy bastante inquieto y no me gusta quedarme en la superficie , me gusta indagar siempre en el interior. Veo importante el trabajar en equipo y la organizacion , ya que es esencial para realizar un buen trabajo </h3>
+<h3 >Developer Full Stack Developer with a passion for creating fluid and engaging web applications and mobile applications. I enjoy the challenges of front-end and back-end development, adapting to bring ideas to life from concept to execution. </h3>
 
 <h1> Lo que encontrarás aquí </h1>
 <h4> En este rincón de GitHub, comparto mis proyectos y exploraciones en el mundo de la programación. Desde aplicaciones web y moviles , tambien encontrás los lenguajes que uso y como poder contactar conmigo</h4>
