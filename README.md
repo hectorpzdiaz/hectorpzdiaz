@@ -1,7 +1,7 @@
 <h2 align="center">Hello I am Héctor👋 </h2>
 
 
- <img src="https://i.imgur.com/eRy3i4F.png">
+ <img src="https://imgur.com/gtHekV5.png">
 
 <h4 >Developer Full-Stack I like creating fluid and engaging web applications and mobile applications. I enjoy the challenges of front-end and back-end development, adapting to bring ideas to life from concept to execution. </h4>
 
