@@ -1,4 +1,4 @@
-<h2 align="center">Hello I am Héctor👋 </h2>
+<h2 align="center">Hello 👋 </h2>
 
 
  <img src="https://imgur.com/gtHekV5.png">
