@@ -24,6 +24,8 @@
 <a href="https://hectorpzdiaz.eu/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"> 
 </a>
-   <img src="https://img.shields.io/badge/Gmail-D50C2D?style=for-the-badge&logo=gmail&logoColor=white"> 
 
+ <a href="mailto:contacto@hectorpzdiaz.eu?subject=Contacto" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D50C2D?style=for-the-badge&logo=gmail&logoColor=white"> 
+ </a>
 </div>
