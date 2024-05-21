@@ -13,7 +13,11 @@
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
   <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-Angular-red?logo=angular"> 
+    <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=red"> 
+    <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=React&logoColor=blue">
+    <img src="https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring&logoColor=green"> 
+ 
+    
 
 </p>
 
