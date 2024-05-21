@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋 </h2>
+<h2 align="center">Hello , Welcome 👋 </h2>
 
 
  <img src="https://i.imgur.com/r8bMRMI.png">
@@ -11,7 +11,7 @@
 
 <p align="center ">
   
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/mongodb-white?style=for-the-badge&logo=mongodb&logoColor=green">
