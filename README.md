@@ -6,8 +6,8 @@
 <h4 >Developer Full-Stack I like creating fluid and engaging web applications and mobile applications. I enjoy the challenges of front-end and back-end development, adapting to bring ideas to life from concept to execution. </h4>
 
 
-<h3 align="center">Skills</h3>
-<p align="center ">
+<h2 align="center">Skills</h2>
+
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >
@@ -17,9 +17,8 @@
     <img src="https://img.shields.io/badge/React-87CEEB?style=for-the-badge&logo=React&logoColor=blue">
     <img src="https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring&logoColor=green"> 
  
-    
+  
 
-</p>
 
 <h3 align="center">contact me and visit my profiles:</h3>
 <div align="center">
