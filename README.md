@@ -7,7 +7,7 @@
 
 
 <h2 align="center">Skills</h2>
-<h3 align="center">language</h3>
+<h3 align="center">Language</h3>
 
 <p align="center ">
   
