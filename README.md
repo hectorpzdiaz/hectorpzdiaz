@@ -35,7 +35,7 @@
  
 </p>
 
-<h2 align="center"> proyects and contact</h2>
+<h2 align="center"> Proyects and contact </h2>
 <div align="center">
 <h3 align="center">Proyects</h3>
 
@@ -48,7 +48,7 @@
 </a>
 
 </div>
-<h3 align="center">contact me and visit my profiles</h3>
+<h3 align="center">Contact me and visit my profiles</h3>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/h%C3%A9ctor-p%C3%A9rez-d%C3%ADaz-9b47752a1/" target="_blank">
