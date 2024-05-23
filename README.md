@@ -35,7 +35,20 @@
  
 </p>
 
-<h3 align="center">contact me and visit my profiles:</h3>
+<h2 align="center"> proyects and contact</h2>
+<div align="center">
+<h3 align="center">Proyects</h3>
+
+<a  href="https://securiochatinlive.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Securio%20chat%20in%20live-blue?style=for-the-badge&logo=fake&logoColor=orange">
+</a>
+
+<a  href="https://historias-con-voz.onrender.com">
+  <img src="https://img.shields.io/badge/Historias%20con%20voz-orange?style=for-the-badge&logo=fake&logoColor=orange">
+</a>
+
+</div>
+<h3 align="center">contact me and visit my profiles</h3>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/h%C3%A9ctor-p%C3%A9rez-d%C3%ADaz-9b47752a1/" target="_blank">
@@ -46,4 +59,4 @@
 </a>
 
 
-</div>
+
